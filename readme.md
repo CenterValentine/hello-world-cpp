@@ -1,22 +1,16 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Demonsrate basic appliction execution in the C++ language. This application breaks ground on the first steps to completing a file reading and writing program.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Hello world outputs a stream of characters and establishes a simple break-in of the C++ Module 1 excercise that will read files and output properties.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+ The CMake and C++ Microsoft extensions were installed in the VSCode Enviornment to make this code executable. I implimented CMake in order to run and debug in the most practical manner. 
 
-{Describe the programming language that you used}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [w3](http://w3.com)
+* [w3 C++ Tutorial](https://www.w3schools.com/cpp/default.asp)
+* [Qt](https://www.qt.io/pricing)
