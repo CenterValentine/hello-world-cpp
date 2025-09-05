@@ -2,7 +2,7 @@
 
 Demonsrate basic appliction execution in the C++ language. This application breaks ground on the first steps to completing a file reading and writing program.
 
-Hello world outputs a stream of characters and establishes a simple break-in of the C++ Module 1 excercise that will read files and output properties.
+Hello world outputs a stream of characters and solves an important barrier to webdevelopment, taking simple steps to complete a larger more complex task.  In this case this provides a break-in of the C++ Module 1 excercise which will read files and output properties.
 
 # Development Environment
 
